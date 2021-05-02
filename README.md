@@ -11,6 +11,7 @@
 9. For stop (example for all services) "./sms_sender_1.exe stop".
 10. For restart "./sms_sender_1.exe restart".
 11. For reload configuration "./sms_sender_1.exe reload_cfg".
+12. For use systemd "./sms_sender_1.exe use_systemd" and follow instructions.
 
 For create sms_sender_0dsm.exe just "cd /dir_with_sms_sender_1.exe" + "cp sms_sender_1.exe sms_sender_0dsm.exe".
 
