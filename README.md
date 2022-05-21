@@ -24,5 +24,7 @@ For create sms_sender_0rx.exe just "cd /dir_with_sms_sender_1.exe" + "cp sms_sen
 20211117 = simple_chat - some changes for logging. After start config 'simple_chat.cfg' will be created automatically. Feature is not fully tested at this time.
 
 ==========
+
 Bug1
+
 Please, always fill configuration block [CONNECT_SPEED]
